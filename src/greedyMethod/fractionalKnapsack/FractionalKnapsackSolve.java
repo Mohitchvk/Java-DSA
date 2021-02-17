@@ -1,4 +1,4 @@
-package fractionalKnapsack;
+package greedyMethod.fractionalKnapsack;
 
 
 import java.util.ArrayList;

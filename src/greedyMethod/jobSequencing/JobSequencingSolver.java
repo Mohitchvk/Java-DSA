@@ -1,4 +1,4 @@
-package jobSequencing;
+package greedyMethod.jobSequencing;
 
 import java.util.ArrayList;
 import java.util.Arrays;

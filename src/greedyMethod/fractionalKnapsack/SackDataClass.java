@@ -1,4 +1,4 @@
-package fractionalKnapsack;
+package greedyMethod.fractionalKnapsack;
 
 
 public class SackDataClass {

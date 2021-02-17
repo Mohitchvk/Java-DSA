@@ -1,4 +1,4 @@
-package jobSequencing;
+package greedyMethod.jobSequencing;
 
 public class SequencingDataClass {
     int profit;
